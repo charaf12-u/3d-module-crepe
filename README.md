@@ -10,7 +10,7 @@ The goal of this project is to simulate a realistic food cart environment with g
 
 ## 🖼️ Preview
 
-![Project Preview](sandbox:/mnt/data/Captureprojet.png)
+![Project Preview](Captureprojet.png)
 
 ---
 
